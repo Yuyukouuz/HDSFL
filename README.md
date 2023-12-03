@@ -42,4 +42,4 @@ tools.py：Specific implementation of subroutines, including model saving, loss 
 4. Wait for the output result. The output result will be saved in running_save directory.
 
 ## Read experimental results：
-Run read_record.py --open filename --print True
+`python read_record.py --open filename --print True`
