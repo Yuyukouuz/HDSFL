@@ -28,7 +28,7 @@ read_record.py：Read saved results.
 
 SCNN.py：DTSNN model.
 
--SVGG.py：VSNN model.
+SVGG.py：VSNN model.
 
 tools.py：Specific implementation of subroutines, including model saving, loss function, sample acquisition, data structure transformation, general network training, composite distillation training, accuracy testing, output spike tensor, and acquisition of confusion matrix.
 
