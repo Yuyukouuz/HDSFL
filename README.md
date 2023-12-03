@@ -10,9 +10,9 @@ dataset_config.py：Dataset configuration code, used to configure public and pri
 
 dvs_loader.py：Load dvs dataset.
 
-flsnn_client.py：The core code of the client, which includes all the operations and order that the client can perform, with the main loop being the client_ Start().
+flsnn_client.py：The core code of the client, which includes all the operations and order that the client can perform, with the main loop being the client_start().
 
-flsnn_server.py：The core code of the server, which includes server operations and coordinating client operations, with the main loop being the server_ Start().
+flsnn_server.py：The core code of the server, which includes server operations and coordinating client operations, with the main loop being the server_start().
 
 global_configs.py：Global parameter configuration, the meaning of configuration parameters has been annotated.
 
